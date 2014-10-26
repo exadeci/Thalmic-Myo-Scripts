@@ -1,4 +1,4 @@
-Thalmic-Myo-Scripts
+Thalmic Myo Scripts
 ===================
 
 My tests scripts with myo
